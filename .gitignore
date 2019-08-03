@@ -1,1 +1,4 @@
+/Week-03/.idea/
+/Week-03/bin/
 *.DS_Store
+*.pb.go
